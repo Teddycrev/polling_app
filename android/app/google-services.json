@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "695885698472",
+    "firebase_url": "https://polling-app-b5d9a.firebaseio.com",
+    "project_id": "polling-app-b5d9a",
+    "storage_bucket": "polling-app-b5d9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695885698472:android:d3f1a5dabed3c591ad399d",
+        "android_client_info": {
+          "package_name": "com.balletbox.polling_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695885698472-jqb84r5756d7sp39ut6ge202uuo5db7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.balletbox.polling_app",
+            "certificate_hash": "1d114a39eefb5aad85a0c03db0c724111c269a1e"
+          }
+        },
+        {
+          "client_id": "695885698472-435bp6iser9ga348f8gcpsknbq0gbgd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfOI7U2nEIS__DydeOiisFic1l-j1IVsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695885698472-435bp6iser9ga348f8gcpsknbq0gbgd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

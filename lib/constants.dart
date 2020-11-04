@@ -1,0 +1,1 @@
+const AppName = 'Ballot Box';
